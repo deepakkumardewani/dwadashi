@@ -55,7 +55,7 @@ export default function MaterialUIPickers() {
       </Grid>
     </MuiPickersUtilsProvider>
     <Button variant="contained" color="primary">
-        Submit
+        Submit button
       </Button>
       </Fragment>
   );
